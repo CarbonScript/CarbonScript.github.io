@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_carbonscript=self.webpackChunkdocs_carbonscript||[]).push([[2227],{3769:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
