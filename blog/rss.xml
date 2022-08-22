@@ -4,7 +4,7 @@
         <title>CarbonScript Blog</title>
         <link>https://carbonscript.github.io/blog</link>
         <description>CarbonScript Blog</description>
-        <lastBuildDate>Wed, 27 Jul 2022 14:04:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 13:24:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[Blank Blog]]></title>
             <link>https://carbonscript.github.io/blog/Blank Blog</link>
             <guid>/Blank Blog</guid>
-            <pubDate>Wed, 27 Jul 2022 14:04:21 GMT</pubDate>
+            <pubDate>Fri, 22 Jul 2022 13:24:18 GMT</pubDate>
         </item>
     </channel>
 </rss>

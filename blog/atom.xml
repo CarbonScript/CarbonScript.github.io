@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://carbonscript.github.io/blog</id>
     <title>CarbonScript Blog</title>
-    <updated>2022-07-27T14:04:21.665Z</updated>
+    <updated>2022-07-22T13:24:18.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://carbonscript.github.io/blog"/>
     <subtitle>CarbonScript Blog</subtitle>
@@ -11,6 +11,6 @@
         <title type="html"><![CDATA[Blank Blog]]></title>
         <id>/Blank Blog</id>
         <link href="https://carbonscript.github.io/blog/Blank Blog"/>
-        <updated>2022-07-27T14:04:21.665Z</updated>
+        <updated>2022-07-22T13:24:18.000Z</updated>
     </entry>
 </feed>
